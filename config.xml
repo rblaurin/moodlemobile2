@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.moodle.pactovisual" version="3.7.1" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.moodle.mdi" version="3.7.1" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>MadridSpanish</name>
     <description>Madrid Spanish Institute</description>
     <author email="contacto@pactovisual.com" href="https://www.pactovisual.com">Pacto Visual</author>
